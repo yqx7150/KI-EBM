@@ -1,8 +1,4 @@
 # KI-EBM
-# k-Space and Image Domain Collaborative Energy Based Model for MRI Reconstruction
-The Code is created based on the method described in the following paper: k-Space and Image Domain Collaborative Energy Based Model for MRI Reconstruction
-
-Author: Zongjiang Tu, Chen Jiang, Yu Guan, Qiegen Liu, Minghui Zhang, Dong Liang.
 Date : January. 21, 2022  
 Version : 1.0   
 The code and the algorithm are for non-comercial use only.   
