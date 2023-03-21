@@ -30,5 +30,6 @@ PSNR_SSIM_8ch_random2D_GEBrain.m
 # Acknowledgement
 The implementation is based on: 
 https://github.com/openai/ebm_code_release
+
 https://github.com/yqx7150/EBMRec
 
