@@ -1,6 +1,6 @@
 # KI-EBM
-Date : January. 21, 2022  
-Version : 1.0   
+Date : March. 21, 2023  
+Version : 2.0   
 The code and the algorithm are for non-comercial use only.   
 Copyright 2022, Department of Electronic Information Engineering, Nanchang University. 
 
