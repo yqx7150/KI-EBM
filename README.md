@@ -12,7 +12,7 @@ Copyright 2022, Department of Electronic Information Engineering, Nanchang Unive
 # Pretrained Checkpoints
 We provide pretrained checkpoints. You can download pretrained models from [Google Drive] 
 
-https://drive.google.com/drive/folders/1dy-dBzxxNkh78xq3E8d0eNxirmgfJ_HO?usp=share_link
+https://drive.google.com/drive/folders/1GV1L4d_DDDgNfzGojhTefZbft_uK7Yda?usp=sharing
 
 # Test
 If you want to test the code，please
