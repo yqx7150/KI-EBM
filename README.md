@@ -10,7 +10,7 @@ The code and the algorithm are for non-comercial use only.
 Copyright 2022, Department of Electronic Information Engineering, Nanchang University. 
 
 # Pretrained Checkpoints
-We provide pretrained checkpoints. You can download pretrained models from [Google Drive] (https://drive.google.com/file/d/1DmRTPmc_xYaVO3pX1R_CE0ZpiBRFkCwG/view?usp=sharing)
+We provide pretrained checkpoints. You can download pretrained models from [Google Drive] (https://drive.google.com/drive/folders/1dy-dBzxxNkh78xq3E8d0eNxirmgfJ_HO?usp=share_link)
 
 # Test
 If you want to test the code，please
