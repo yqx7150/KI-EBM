@@ -1,6 +1,11 @@
 # KI-EBM
-Date : March. 21, 2023  
-Version : 2.0   
+Paper: K-space and image domain collaborative energy-based model for parallel MRI reconstruction
+https://www.sciencedirect.com/science/article/abs/pii/S0730725X23000383
+
+Authors: Zongjiang Tu, Chen Jiang, Yu Guan, Jijun Liu, Qiegen Liu 
+
+Date: March. 21, 2023  
+Version: 2.0   
 The code and the algorithm are for non-comercial use only.   
 Copyright 2022, Department of Electronic Information Engineering, Nanchang University. 
 
