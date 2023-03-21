@@ -10,7 +10,8 @@ The code and the algorithm are for non-comercial use only.
 Copyright 2022, Department of Electronic Information Engineering, Nanchang University. 
 
 # Pretrained Checkpoints
-We provide pretrained checkpoints. You can download pretrained models from [Google Drive] (https://drive.google.com/drive/folders/1dy-dBzxxNkh78xq3E8d0eNxirmgfJ_HO?usp=share_link)
+We provide pretrained checkpoints. You can download pretrained models from [Google Drive] 
+https://drive.google.com/drive/folders/1dy-dBzxxNkh78xq3E8d0eNxirmgfJ_HO?usp=share_link
 
 # Test
 If you want to test the code，please
@@ -28,6 +29,6 @@ PSNR_SSIM_8ch_random2D_GEBrain.m
 
 # Acknowledgement
 The implementation is based on: 
-### https://github.com/openai/ebm_code_release
-### https://github.com/yqx7150/EBMRec
+https://github.com/openai/ebm_code_release
+https://github.com/yqx7150/EBMRec
 
