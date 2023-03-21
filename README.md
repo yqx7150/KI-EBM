@@ -30,7 +30,7 @@ CUDA_VISIBLE_DEVICES=0 python3 Test_PKI_8ch_demo.py --swish_act --exp_I=SIAT_I -
 ```
 
 # Acknowledgement
-The implementation is based on: 
+The implementation is based on
 
 https://github.com/openai/ebm_code_release
 
