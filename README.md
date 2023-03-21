@@ -21,6 +21,8 @@ If you want to test the code，please
 
 pKIEBM_Test_Demo.ipynb
 
+sKIEBM_Test_Demo.ipynb
+
 CUDA_VISIBLE_DEVICES=0 python3 PKI_compare_modl.py --swish_act --exp_I=SIAT_I --resume_iter_I=169500 --exp_K=SIAT_K --resume_iter_K=124500 --step_lr_I=10 --step_lr_K=10
 
 CUDA_VISIBLE_DEVICES=0 python3 SKI_compare_modl.py --swish_act --exp_I=SIAT_I --resume_iter_I=169500 --exp_K=SIAT_K --resume_iter_K=124500 --step_lr_I=10 --step_lr_K=10
