@@ -4,18 +4,6 @@ Version : 2.0
 The code and the algorithm are for non-comercial use only.   
 Copyright 2022, Department of Electronic Information Engineering, Nanchang University. 
 
-## Overview of parallel KI-EBM for MRI reconstruction.
- <div align="center"><img src="https://github.com/yqx7150/KI-EBM/tree/main/Figures/PKI-EBM.png" width = "600" height = "300"> </div>
-## Overview of series KI-EBM for MRI reconstruction.
- <div align="center"><img src="https://github.com/yqx7150/KI-EBM/tree/main/Figures/SKI-EBM.png" width = "600" height = "300"> </div>
-## Calibration-free parallel imaging results in T1 GE Brain at acceleration factor R=6 2D random under-sampling mask.
- <div align="center"><img src="https://github.com/yqx7150/KI-EBM/tree/main/Figures/8chR6.png" width = "600" height = "300"> </div>
-
-## Rconstruction results at R=3 1D cartesian sampling percentages in 15 coils parallel imaging. 
- <div align="center"><img src="https://github.com/yqx7150/KI-EBM/tree/main/Figures/DDP_R3.png" width = "600" height = "300"> </div>
-## Reconstruction results at R=6 pseudo radial sampling in 12 coils parallel imaging
- <div align="center"><img src="https://github.com/yqx7150/KI-EBM/tree/main/Figures/MODL.png" width = "600" height = "300"> </div>
-
 # Test
 If you want to test the code，please
 ```bash
