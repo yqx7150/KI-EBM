@@ -17,12 +17,16 @@ https://drive.google.com/drive/folders/1dy-dBzxxNkh78xq3E8d0eNxirmgfJ_HO?usp=sha
 # Test
 If you want to test the code，please
 ```bash
+# Compare with MoDL random-2D R6
+
+pKIEBM_Test_Demo.ipynb
+
+CUDA_VISIBLE_DEVICES=0 python3 PKI_compare_modl.py --swish_act --exp_I=SIAT_I --resume_iter_I=169500 --exp_K=SIAT_K --resume_iter_K=124500 --step_lr_I=10 --step_lr_K=10
+
+CUDA_VISIBLE_DEVICES=0 python3 SKI_compare_modl.py --swish_act --exp_I=SIAT_I --resume_iter_I=169500 --exp_K=SIAT_K --resume_iter_K=124500 --step_lr_I=10 --step_lr_K=10
+
 # 8ch random-2D GRBrain R4
 CUDA_VISIBLE_DEVICES=0 python3 Test_PKI_8ch_demo.py --swish_act --exp_I=SIAT_I --resume_iter_I=169500 --exp_K=SIAT_K --resume_iter_K=124500 --step_lr_I=300 --step_lr_K=100
-
-# Compare with MoDL random-2D R6
-CUDA_VISIBLE_DEVICES=0 python3 PKI_compare_modl.py --swish_act --exp_I=SIAT_I --resume_iter_I=169500 --exp_K=SIAT_K --resume_iter_K=124500 --step_lr_I=10 --step_lr_K=10
-CUDA_VISIBLE_DEVICES=0 python3 SKI_compare_modl.py --swish_act --exp_I=SIAT_I --resume_iter_I=169500 --exp_K=SIAT_K --resume_iter_K=124500 --step_lr_I=10 --step_lr_K=10
 
 # We use matlab to calculate PSNR and SSIM.
 PSNR_SSIM_8ch_random2D_GEBrain.m
