@@ -11,6 +11,7 @@ Copyright 2022, Department of Electronic Information Engineering, Nanchang Unive
 
 # Pretrained Checkpoints
 We provide pretrained checkpoints. You can download pretrained models from [Google Drive] 
+
 https://drive.google.com/drive/folders/1dy-dBzxxNkh78xq3E8d0eNxirmgfJ_HO?usp=share_link
 
 # Test
@@ -29,6 +30,7 @@ PSNR_SSIM_8ch_random2D_GEBrain.m
 
 # Acknowledgement
 The implementation is based on: 
+
 https://github.com/openai/ebm_code_release
 
 https://github.com/yqx7150/EBMRec
