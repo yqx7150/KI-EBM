@@ -22,3 +22,8 @@ CUDA_VISIBLE_DEVICES=0 python3 SKI_compare_modl.py --swish_act --exp_I=SIAT_I --
 # We use matlab to calculate PSNR and SSIM.
 PSNR_SSIM_8ch_random2D_GEBrain.m
 ```
+
+# Acknowledgement
+The implementation is based on: 
+https://github.com/openai/ebm_code_release
+https://github.com/yqx7150/EBMRec
